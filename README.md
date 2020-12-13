@@ -9,3 +9,4 @@ Os ficheiros de .vwf têm de ser criados outra vez
 Ultima atualizaçao foi no dia 12/12/2020
 
 > Contem os guiões 1,2,6,7 e 8  
+> e o teste de treino 2
