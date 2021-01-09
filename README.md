@@ -5,8 +5,5 @@
   
 Os ficheiros de .vwf têm de ser criados outra vez
 
-
-Ultima atualizaçao foi no dia 13/12/2020
-
-> Contem os guiões 1,2,6,7 e 8  
+> Contem os guiões 1,2,6,7,8,9 e 10  
 > e o teste de treino 2
