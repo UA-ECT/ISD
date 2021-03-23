@@ -5,5 +5,5 @@
   
 Os ficheiros de .vwf têm de ser criados outra vez
 
-> Contem os guiões 1,2,6,7,8,9 e 10  
+> Contem os guiões 1,2,6,7,8,9,10,11,12,13  
 > e o teste de treino 2
